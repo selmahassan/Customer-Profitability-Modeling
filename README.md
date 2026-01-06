@@ -12,7 +12,7 @@ The analysis focuses on predicting whether a customer falls into a **Low, Medium
 
 * Perform exploratory data analysis (EDA) on multi-source financial data
 * Engineer meaningful features related to credit behavior and transactions
-* Build and evaluate machine learning models to predict customer profitability
+* Build and evaluate machine learning models (Random Forest and Decision Trees) to predict customer profitability
 * Interpret model outputs in a **business-relevant, finance-focused** way
 
 ---
