@@ -138,5 +138,5 @@ This project demonstrates:
 
 ## Author
 
-**Selma Hassan**
-Data Science graduate with a computer science concentration, interested in data science applications in finance and consumer analytics.
+**Selma Hassan** -
+B.S. in Data Science with a computer science concentration from Emory University, interested in data science applications in finance and consumer analytics.
